@@ -39,3 +39,15 @@
   * count_class - кол-во классов
   * ch - количество feature map после первого слоя свертки
   * count_blocks - количество блоков CnnBlock1 или CnnBlock2
+  
+  
+## Результаты:
+Для тестовой выборки:  
+* adrenaline_rush_citrus_buff-can-0.5: 12
+* 7up_lajm_limon-pet-1.0: 21
+* jevervess_cola-bottle-0.25: 24
+* cool_cola-bottle-0.33: 21
+* e_on_citrus_punch-can-0.45: 14
+* pepsi_max-pet-2.0: 11
+  
+F1_score: 0.96, 1, 1, 1, 1, 0.95 соответственно
