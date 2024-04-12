@@ -1,0 +1,9 @@
+{
+  "img_size": 300,
+
+  "learning_rate": 0.0001,
+  "batch_size": 16,
+  "count_class": 6,
+  "ch": 16,
+  "count_blocks": 3
+}
